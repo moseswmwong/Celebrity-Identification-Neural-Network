@@ -36,7 +36,7 @@ The file is in hdf5 format (.h5 file extension), and can be download from from G
 # GPU
 This system is created with GPU, including Deep Learning Training, Inference processes.
 
-GPU Used : nVidia GeForce GTX 1080
+GPU Used : 1 nVidia GeForce GTX 1080
 
 # Trainig Arrangements
 ### Number of Epochs
