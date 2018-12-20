@@ -1,0 +1,56 @@
+
+
+Test Passed - predicted as celebrity
+
+localtest-celebrity/Top-10-Most-Beautiful-Japanese-Women.jpg
+[p(0), p(1)] = %
+99, 0
+Comment: Top 10 most beautiful Japanese woman
+
+localtest-celebrity/7.jpg
+[p(0), p(1)] = %
+97, 2
+Comment: This is Maggot Robbie
+
+localtest-celebrity/Margot-Robbie.jpg
+[p(0), p(1)] = %
+54, 45
+Comment: Margot Robbie, Batman movie
+
+localtest-celebrity/14.jpg
+[p(0), p(1)] = %
+96, 3
+Comment: A celebrity
+
+localtest-celebrity/9_Make_Your_Partne_-Laugh_Much_Laughter_Can_Appear_More_Attractive_To_Women-e1530749916560.jpg
+[p(0), p(1)] = %
+79, 20
+Comment: A nice looking model which looks like a celebrity
+
+localtest-celebrity/13.jpg
+[p(0), p(1)] = %
+99, 0
+Comment: A super model
+
+localtest-celebrity/21.jpg
+[p(0), p(1)] = %
+94, 5
+Comment: Sport Illustrated Model Kate Upton
+
+localtest-celebrity/16.jpg
+[p(0), p(1)] = %
+86, 13
+Comment: Gal Gadot, the Super Woman movie
+
+localtest-celebrity/ariana_grande_photo_jon_kopaloff_getty_images_465687098.jpg
+[p(0), p(1)] = %
+98, 1
+Comment: Super Star - Ariana Grand
+
+
+
+
+
+Test Failed - not predicted as celebrity
+
+Overall comment: There are mostly good looking people but not so charming as celebrity, two are non people images
