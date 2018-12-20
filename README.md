@@ -37,7 +37,8 @@ The file is in hdf5 format (.h5 file extension), and can be download from from G
 ### Number of Epochs
 The weights used in the local test is 300 epoch, however the weights published is trained with only 100 epoch. You may find less accuracy with this 100 epoch when you apply the model on your own test images. To get a higher epochs such as 300 epoch or above, you need the training model and run for the destinated iterations.
 
-
+# Usage Instructions
+TBD
 
 
 
