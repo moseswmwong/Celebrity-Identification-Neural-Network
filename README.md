@@ -27,11 +27,9 @@ Result: Successful at 91% Accuracy. There are 33 images provided, most of them a
 More details is available from the test report - [celebrity-images-test-report1.txt](https://github.com/moseswmwong/Celebrity-Identification-Neural-Network/blob/master/celebrity-images-test-report1.txt)
 
 
-# Future Enhancements
-- Face detection pre-processing to reduce error rate
-- Include more background images as negative examples
-- De-bias to add more Celebrity images from countries all over the world
+# Data
 
+TBD
 
 # Google Tensorflow Model and Weights
 The file is in hdf5 format (.h5 file extension), and can be download from from Dropbox public folder [here](https://www.dropbox.com/s/x2ck81r3lokeq57/my_model-100epochs.h5?dl=0).
@@ -41,12 +39,29 @@ This system is created with GPU, including Deep Learning Training, Inference pro
 
 GPU Used : 1 nVidia GeForce GTX 1080
 
+# Computing Environment
+
+TBD
+
+# Client Devices
+
+TBD
+
 # Trainig Arrangements
 ### Number of Epochs
 The weights used in the local test is 300 epoch, however the weights published is trained with only 100 epoch. You may find less accuracy with this 100 epoch when you apply the model on your own test images. To get a higher epochs such as 300 epoch or above, you need the training model and run for the destinated iterations.
 
+### A Brief Introduction of Residual Network
+
+TBD
+
+### How to use this program - the computer vision model inferrence process
+
+TBD
 
 
-
-
+# Future Enhancements
+- Face detection pre-processing to reduce error rate
+- Include more background images as negative examples
+- De-bias to add more Celebrity images from countries all over the world
 
