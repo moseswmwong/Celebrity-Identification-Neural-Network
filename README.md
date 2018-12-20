@@ -17,7 +17,7 @@ After reviewed the mis-classified images, these are complex living room image wh
 
 
 Future enhancmeents:
-- Face detection pre-processing
+- Face detection pre-processing to reduce error rate
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
 
