@@ -21,6 +21,7 @@ Test against people images
 
 Result: Successful at 91% Accuracy. There are 33 images provided, most of them are celebrity images, two are non people images. The two non people images are accurately predicted as non celebrity, nine were classified as celebrity, including Ariana Grand, Gal Gadot, Kate Upton, Maggot Robbie etc. However, within the people images of the rest 22 images, there are three errors which are errously identified as non celebrity which they obviously are. Error rate is 3 divided by 33 equals 9%, therefore accuracy is 91%.
 
+More details is available from the test report - celebrity-images-test-report1.txt
 
 
 # Future enhancmeents
