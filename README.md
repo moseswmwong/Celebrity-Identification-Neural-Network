@@ -24,14 +24,17 @@ Result: Successful at 91% Accuracy. There are 33 images provided, most of them a
 More details is available from the test report - celebrity-images-test-report1.txt
 
 
-# Future enhancmeents
+# Future Enhancements
 - Face detection pre-processing to reduce error rate
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
 
 
-# Tensorflow Model and Weights
+# Google Tensorflow Model and Weights
 The file is in hdf5 format (.h5 file extension), and can be download from from Google Drive here(TBD).
+
+# GPU
+This system is created with GPU, including Deep Learning Training, Inference processes.
 
 # Trainig Arrangements
 ### Number of Epochs
