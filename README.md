@@ -34,7 +34,7 @@ More details is available from the test report - celebrity-images-test-report1.t
 
 
 # Google Tensorflow Model and Weights
-The file is in hdf5 format (.h5 file extension), and can be download from from Google Drive here(TBD).
+The file is in hdf5 format (.h5 file extension), and can be download from from Google Drive [here](https://www.dropbox.com/s/x2ck81r3lokeq57/my_model-100epochs.h5?dl=0).
 
 # GPU
 This system is created with GPU, including Deep Learning Training, Inference processes.
