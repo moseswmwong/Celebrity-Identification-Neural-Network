@@ -22,7 +22,7 @@ For more detail explaination about the intuition of Adversial problem of CNN mod
 # Test 2
 Test against people images
 
-Result: Successful at 91% Accuracy. There are 33 images provided, most of them are celebrity images, two are non people images. The two non people images are accurately predicted as non celebrity, nine were classified as celebrity, including Ariana Grand, Gal Gadot, Kate Upton, Maggot Robbie etc. However, within the people images of the rest 22 images, there are three errors which are errorously identified as non celebrity which they obviously are. Error rate is 3 false-negatives divided by 33 equals 9%, therefore accuracy is 91%.
+Result: Successful at 91% Accuracy. There are 33 images provided, most of them are celebrity images, two are non people images. The two non people images are accurately predicted as non celebrity, nine were classified as celebrity, including Ariana Grand, Gal Gadot, Kate Upton, Maggot Robbie etc. However, within the people images of the rest 22 images, there are three errors which are errorously identified as non celebrity which they obviously are. Error rate is 3 false-negatives (and 0 false-positive) divided by 33 equals 9%, therefore accuracy is 91%.
 
 More details is available from the test report - [celebrity-images-test-report1.txt](https://github.com/moseswmwong/Celebrity-Identification-Neural-Network/blob/master/celebrity-images-test-report1.txt)
 
