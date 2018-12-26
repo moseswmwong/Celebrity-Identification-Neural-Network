@@ -5,7 +5,7 @@ This neural network is training with Keras components including Conv, Dense, com
 
 # Business Potential Use and Initiatives
 
-TBD
+TBD+
 
 # Performance Assessment 1 - First Test Report
 Test against webcam images
