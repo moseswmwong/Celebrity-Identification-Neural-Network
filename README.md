@@ -80,5 +80,8 @@ TBD
 - Port to mobile phone and embedded devices using Tensorflow Lite and Apple's Neural Engine
 
 # My final words ...
+
 If you are curious everything about Artificial Intelligence, I hope you will find my Quora answers and questions interesting since I am a super curious person and decided to find answers by asking. As of 2018 boxing day, 2018-12-26, my answers and question was read by 66700 visitors. Here is the [link](https://www.quora.com/profile/Moses-Wong-1)
+
+My most favorite one is [If humans can create artificial intelligence, then, are we a creation?](https://www.quora.com/If-humans-can-create-artificial-intelligence-then-are-we-a-creation)
 
