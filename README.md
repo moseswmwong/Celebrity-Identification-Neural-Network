@@ -61,6 +61,16 @@ The weights used in the local test is 300 epoch, however the weights published i
 
 # How to use this program - the computer vision model inference process
 
+## Preparations
+
+1. Download all files from this repository
+
+2. Download trained model file [my_model-100epochs.h5](https://www.dropbox.com/s/x2ck81r3lokeq57/my_model-100epochs.h5?dl=0), and store it the same directory of this repository
+
+3. Creates a subfolder name "localtest-celebrity"
+
+## Running the inference engine
+
 TBD
 
 # Comparing other solutions
