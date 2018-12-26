@@ -34,7 +34,7 @@ TBD
 
 # Residual Network - The Algorithm Used
 
-TBD
+TBD+
 
 # Google Tensorflow Model and Weights
 The file is in hdf5 format (.h5 file extension), and can be download from from Dropbox public folder [here](https://www.dropbox.com/s/x2ck81r3lokeq57/my_model-100epochs.h5?dl=0).
