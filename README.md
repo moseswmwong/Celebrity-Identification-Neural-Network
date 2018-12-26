@@ -46,7 +46,13 @@ GPU Used : 1 nVidia GeForce GTX 1080
 
 # AI Computing Environment
 
-TBD
+  The following is the key requirements of the Deep Learning system for running the Neural Network
+  
+  - Python 3.6
+  - nVidia CUDA driver 9.0
+  - Google Tensorflow 1.5.0 or above
+  - iPython Notebook
+  - (Optional) Anaconda
 
 # Capturing Client Devices - Embedded System Device used as webcam for image capturing and motion detection
 
