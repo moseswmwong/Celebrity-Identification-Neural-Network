@@ -76,6 +76,13 @@ The weights used in the local test is 300 epoch, however the weights published i
 
 3. Creates a subfolder name "localtest-celebrity".
 
+4. Install all necessaries Python libraries either through conda or pip, includes numpy, keras-gpu, scipy, matplotlib, gc
+   - keras is a Machine Learning library provided by Google for creating ML models or modules base on Tensorflow, Torch or other supported backend. The '-gpu' variant of keras library ensure it runs on GPU.
+   - numpy is a numerical operation python library created for scientific calculation use, for ML specific applications, vectorized matrix operations are dependent on numpy, but DL mainly depend on CUDA and nVidia GPU instead.
+   - scipy.misc are miscellanous library from this scientific computation library
+   - matplotlib is used to plot graph
+   - gc is the gabbage colleciton library for releasing resources during the resources intensive ML/DL operations.
+
 ## Running the inference engine
 
 TBD
