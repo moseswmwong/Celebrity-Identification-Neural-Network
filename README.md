@@ -26,6 +26,7 @@ Result: Successful at 91% Accuracy. There are 33 images provided, most of them a
 
 More details is available from the test report - [celebrity-images-test-report1.txt](https://github.com/moseswmwong/Celebrity-Identification-Neural-Network/blob/master/celebrity-images-test-report1.txt)
 
+As a supplementary informtion, you may download the file ci4.html and open with a browser to check the Python Notebook browser screen capture as an alternative reference for a particular test run of these input images. This Python Notebook ran on the cloud with Paperspace.com using GPU+ machine and run time is about 30 seconds.
 
 # Data
 
