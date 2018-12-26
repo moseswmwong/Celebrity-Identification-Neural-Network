@@ -46,7 +46,7 @@ GPU Used : 1 nVidia GeForce GTX 1080
 
 # AI Computing Environment
 
-  The following is the key requirements of the Deep Learning system for running the Neural Network
+  The following are the key requirements of the Deep Learning system for running the Neural Network
   
   - Python 3.6
   - nVidia CUDA driver 9.0
