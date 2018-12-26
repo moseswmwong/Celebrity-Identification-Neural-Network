@@ -82,7 +82,7 @@ The weights used in the local test is 300 epoch, however the weights published i
    - scipy.misc are miscellanous library from this scientific computation library.
    - matplotlib is used to plot graph.
    - gc is the gabbage colleciton library for releasing resources during the resources intensive ML/DL operations.
-   - pillow is a image processing library used to import and convert image files into specific dimensions and other characteristics for subsequent computer vision processing with Deep Learning.
+   - pillow is an image processing library used to import and convert image files into specific dimensions and other characteristics to fit subsequent computer vision processing with the particular Deep Learning architecture.
 
 ## Running the inference engine
 
