@@ -49,7 +49,7 @@ GPU Used : 1 nVidia GeForce GTX 1080
   The following are the key requirements of the Deep Learning system for running the Neural Network
   
   - Python 3.6
-  - nVidia CUDA driver 9.0
+  - nVidia CUDA 9.0
   - Google Tensorflow 1.5.0 or above
   - iPython Notebook
   - (Optional) Anaconda
