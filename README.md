@@ -47,7 +47,7 @@ GPU Used : 1 nVidia GeForce GTX 1080
 
 TBD
 
-# Capturing Client Devices
+# Capturing Client Devices - Embedded System Device used as webcam for image capturing and motion detection
 
 TBD
 
