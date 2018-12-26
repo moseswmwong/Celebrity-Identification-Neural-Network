@@ -77,4 +77,5 @@ TBD
 - Face detection pre-processing to reduce error rate
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
+- Port to mobile phone and embedded devices using Tensorflow Lite and Apple's Neural Engine
 
