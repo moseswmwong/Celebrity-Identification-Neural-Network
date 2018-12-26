@@ -3,6 +3,9 @@ Identify a celebrity base on a person picture
 
 This neural network is training with Keras components including Conv, Dense, combined with own writen ResNet50 Identity and Convolutional blocks. Then trained with 20,000 Celebrity pictures. 
 
+# Business Potential Use and Initiatives
+
+TBD
 
 # Performance Assessment 1 - First Test Report
 Test against webcam images
@@ -103,6 +106,7 @@ TBD
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
 - Port to mobile phone and embedded devices using Tensorflow Lite and Apple's Neural Engine
+- Port to Jetson TX2 Module for training and inference
 
 # Final words ...
 
