@@ -31,7 +31,7 @@ More details is available from the test report - [celebrity-images-test-report1.
 
 TBD
 
-# Residual Network - The Algoritm Used
+# Residual Network - The Algorithm Used
 
 TBD
 
