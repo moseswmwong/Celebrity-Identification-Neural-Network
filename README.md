@@ -43,7 +43,7 @@ This system is created with GPU, including Deep Learning Training, Inference pro
 
 GPU Used : 1 nVidia GeForce GTX 1080
 
-# Computing Environment
+# Computing Environment - How to build an AI system for computer vision
 
 TBD
 
