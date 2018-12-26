@@ -63,6 +63,15 @@ The weights used in the local test is 300 epoch, however the weights published i
 
 TBD
 
+# Comparing other solutions
+
+## Comparing AutoML
+
+TBD
+
+## Comparing Amazon Rekonition cloud services
+
+TBD
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
