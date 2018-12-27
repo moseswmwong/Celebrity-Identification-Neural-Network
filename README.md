@@ -5,7 +5,7 @@ This neural network was being engineered with Keras components including Conv, D
 
 # Business Potential Use and Initiatives
 
-This AI is well trained to recognises a person whose picture reveal that she is very similar to a white female celebrity, using 10,000 white woman celebrity images this AI is trained through Residual Network 50 (ResNet50), an advance Neural Network architecture for computer vision. Model companies, advertising agency may find this application automate the supply of beautiful people discovery. The only reason this AI is trained with white female is because the Github is to serve as a demonstration purpose only. And the same AI can be extended to male or people from other colors and nations too.
+This AI is well trained to recognises a person whose picture reveal that she is very similar to a white female celebrity, using 10,000 white woman celebrity images this AI is trained through Residual Network 50 (ResNet50), an advance Neural Network architecture for computer vision. Model companies, advertising agency may find this application automate the supply of beautiful people discovery. The only reason this AI is trained with white female is because the Github is to serve as a demonstration purpose only. And the same AI can be extended to male or people from other colors and nations working equally well.
 
 # Performance Assessment 1 - First Test Report
 Test against webcam images
