@@ -1,7 +1,7 @@
 # Celebrity-Identification-Neural-Network
 Identify a potential celebrity base on a person picture
 
-This neural network is training with Keras components including Conv, Dense, combined with own writen ResNet50 Identity and Convolutional blocks. Then trained with 20,000 Celebrity pictures. 
+This neural network was being engineered with Keras components including Conv, Dense, combined with own writen ResNet50 Identity and Convolutional blocks. Then trained with 20,000 Celebrity pictures. 
 
 # Business Potential Use and Initiatives
 
