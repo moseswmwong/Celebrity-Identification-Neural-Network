@@ -114,13 +114,14 @@ After processing all files, you may collect image files being recognized as Cele
 ## Compare with automatic Machine Learning and visual recognition cloud services
 
 Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify hyper-parameter turning process, the benefit is simplified AI architecture design and development process, but the drawbacks are
-1. Expensive services with per image charages, server and storage rental fee. Customer also has to pay for each inference use including AI, server and network traffic use.
+1. Expensive services - pay for training on a per image per training basis, server and storage rental, and inference fee for AI, server and network usages.
 2. Very difficult to customize
 3. Zero data ownership
 4. Zero program ownership
-5. No client device integrate
+5. Very limited client device integration
 6. IoT impossible
-7. Offline impossible
+7. Offline use impossible
+8. General security concerns of cloud service
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
