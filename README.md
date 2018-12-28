@@ -79,7 +79,7 @@ Motion detection is achieved by comparing pixel differences and count-base thres
 
 # Reporting Client Devices
 
-After AI processing, results can be found inside subfolder 'result'. Subsequent processes can display on local machine, or further process these images for example, to display on a web page.
+After AI processing, results can be found inside subfolder 'result'. Subsequent processes can display them on local machine or to perform further processings for example to display them on a web page.
 
 # Training Arrangements
 ### Number of Epochs
