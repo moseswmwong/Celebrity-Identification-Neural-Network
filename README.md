@@ -71,7 +71,7 @@ GPU Used : 1 nVidia GeForce GTX 1080
 
 # Capturing Client Devices - Embedded System Device used as webcam for image capturing and motion detection
 
-Embedded Linux system connected with webcam with motion-based software runs on Debian Linux system is used for image capturing. Motion detection is applied on the captured images before passing onto the AI helped reduce traffic and AI loading. Raspberry Pi Model B+ was used but the same OS and Software can be used on other Embedded Linux hardware, e.g. BeagleBone Black.
+Embedded Linux system connected with webcam with motion-based software runs on Debian Linux system is used for image capturing. Motion detection is applied on the captured images before passing onto the AI helped reduce traffic and AI loading. Raspberry Pi 3 Model B+ was used but the same OS and Software can be used on other Embedded Linux hardware, e.g. BeagleBone Black.
 
 Motion provides a platform to support common webcam hardware on Linux platform with motion detection and image processing modules. I setup one web camera on the hardware with devices modules activated which supports PI cameras, V4L2 (Video for Linux) webcams,and movie file processing. 
 
