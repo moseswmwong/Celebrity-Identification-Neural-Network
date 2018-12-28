@@ -119,7 +119,7 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 3. Zero data ownership
 4. Lost of competitive edge due to AI weights sharing after the cloud AI being trained with your data
 5. Zero program ownership
-6. Lost of competitive edge due to program logic sharing
+6. Potential lost of competitive edge after revealing your business logic
 7. Limited client device integration
 8. Offline use impossible
 9. IoT local Machine Learning processing impossible
