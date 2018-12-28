@@ -45,7 +45,7 @@ Due to copyright no images used by this AI can be released by any means.
 
 Residual Network is an advanced Deep Learning algorithm mainly designed and used in solving Computer Vision problems, it is a kind of Convolutional Neural Network (CNN) which excel in solving the vanishing gradient descent problem of Deep Learning which enable deeper layer stacking for the CNN Deep Learning architecture.
 
-As a general rule with support from many laboratory reports, Computer Vision performance of a Deep Learning architecture increases as the number of layers increases. Therefore with this 50 layers Residual Network the Computer Vision performance or prediction accuracy is high, and can products very good prediction results.
+As a general rule with support from many laboratory reports, Computer Vision performance of a Deep Learning architecture increases as the number of layers increases. Therefore with this 50 layers Residual Network the Computer Vision performance and prediction accuracy is high, and can products very good prediction results.
 
 There are many intricate differences between person faces and high degree of visual capability is needed for this project, hence it is chosen for this project.
 
