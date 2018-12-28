@@ -19,7 +19,7 @@ Total number of images being captures for people subjects:
 
 After reviewed the mis-classified images, these are complex living room image which has few people sitting and sometime chatting on a dinner table with many colorful background small sub-images, therefore, the most probably explaination of mis-classification is due to Adversial problem of Convolutional Neural Network, which means many sub-sampling sections of the image are misregarded as Celebrity on the final Fully Connected layer.
 
-For more detail explaination about the intuition of Adversial problem of CNN model, please read this book www.deeplearningbook.org or this neuralnetworksanddeeplearning.com book [neuralnetworksanddeeplearning.com]http://neuralnetworksanddeeplearning.com
+For more detail explaination about the intuition of Adversial problem of CNN model, please read this book www.deeplearningbook.org or this book [neuralnetworksanddeeplearning.com]http://neuralnetworksanddeeplearning.com
 
 
 # Performance Assessment 2 - Second Test Report
