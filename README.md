@@ -118,11 +118,11 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 2. Very difficult to customize
 3. Zero data ownership
 4. Zero program ownership
-5. Very limited client device integration
-6. IoT impossible
-7. Offline use impossible
-8. General security concerns of cloud service
-9. More difficult to comply with the ever increasing privacy protection regulations, result in higher reputational and legal risk of your business
+5. Limited client device integration
+6. Offline use impossible
+7. IoT local ML/DL processing impossible
+8. General security concerns of data privacy using cloud services
+9. More and more difficult over time to comply with the ever increasing privacy protection government regulations, result in increasing reputational and legal risk of businesses
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
