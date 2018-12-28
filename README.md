@@ -35,7 +35,7 @@ As a supplementary informtion, you may download the file ci4.html and open with 
 
 The process is to source most relevant data from the Internet, i.e. Celebrity images, select the target images, most famous white female celebrity, and clean up images that is too dark, too bright, people are too big or too small in the picture, and any errors, e.g. images of machines are occaptionally get its way into the dataset. I also spend some time to make sure small percentage of alternate format, for instance, cartoon style, are also included to ensure diversity of image format. 
 
-Images are mostly acquired from AI research institutions which had already accumlated and processed many people images downloaded from the Internet which has similar requirements as stated. 
+I received these images mostly from AI research institutions which had already accumlated and processed many images that has similar requirements as stated.
 
 Due to copyright no images used by this AI can be released by any means.
 
