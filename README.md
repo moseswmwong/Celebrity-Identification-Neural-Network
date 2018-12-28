@@ -51,7 +51,6 @@ There are many intricate differences between person faces and high degree of vis
 
 The only drawback of deeper architecture is increases in computational resources requirements, thus I decided to use 50 layers for the computer vision project, at some early evaluation ResNet50 can provides pretty fast prediction performance down to 80 milliseconds processing time per image over tight resources platform, such as, a CPU-based mobile phone using Google's Androiod system running Tensorflow Lite.
 
-
 # Google Tensorflow Model and Weights
 The file is in hdf5 format (.h5 file extension), and can be download from from Dropbox public folder [here](https://www.dropbox.com/s/x2ck81r3lokeq57/my_model-100epochs.h5?dl=0).
 
