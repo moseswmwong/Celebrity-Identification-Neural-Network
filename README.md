@@ -117,10 +117,10 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 1. Expensive services - pay for training on a per image per training basis, server and storage rental, and inference fee for AI, server and network usages
 2. Very difficult to customize
 3. Zero data ownership
-4. Lost of competitive edge due to AI weights sharing after the cloud AI being trained with your data
+4. Lost of competitive edge due to AI weights sharing, after the cloud AI is being trained with your data
 5. Zero program ownership
 6. Potential lost of competitive edge after revealing your business logic
-7. Limited client device integration
+7. Client device integration not available
 8. Offline use impossible
 9. IoT local Machine Learning processing impossible
 10. General security concerns of data privacy using cloud services
