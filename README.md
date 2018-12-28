@@ -122,7 +122,7 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 6. IoT impossible
 7. Offline use impossible
 8. General security concerns of cloud service
-9. Very difficult to comply with ever-increasing privacy protection regulations
+9. Very difficult to comply with ever-increasing privacy protection regulations result in higher legal risk for business
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
