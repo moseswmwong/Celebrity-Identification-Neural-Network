@@ -109,13 +109,16 @@ TBD
 
 # Comparing other solutions
 
-## Compare with automatic Machine Learning
+## Compare with automatic Machine Learning and visual recognition cloud services
 
-Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify 
-
-## Compare with visual recognition services
-
-TBD
+Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify hyper-parameter turning process, the benefit is simplified AI architecture design and development process, but the drawbacks are
+- Expensive services with per image charages, server and storage rental fee. Customer also has to pay for each inference use including AI, server and network traffic use.
+- Very difficult to customize
+- Zero data ownership
+- Zero program ownership
+- No client device integrate
+- IoT impossible
+- Offline impossible
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
