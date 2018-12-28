@@ -122,14 +122,14 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 6. IoT impossible
 7. Offline use impossible
 8. General security concerns of cloud service
-9. More more difficult to comply with ever-increasing privacy protection regulations result in higher legal risk for business
+9. More difficult to comply with the ever increasing privacy protection regulations, result in higher reputational and legal risk of your business
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
 - Port to mobile phone and embedded devices using Tensorflow Lite and Apple's Neural Engine
-- Port to Jetson TX2 Module for training and inference
+- Port to nVidia Jetson TX2 Embedded Linux module for training and inference
 
 # Final words ...
 
