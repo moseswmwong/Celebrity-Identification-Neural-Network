@@ -43,7 +43,14 @@ Due to copyright no images used by this AI can be released by any means.
 
 # Residual Network - The Algorithm Used
 
-TBD+
+Residual Network is an advanced Deep Learning algorithm mainly designed and used in solving Computer Vision problems, it is a kind of Convolutional Neural Network (CNN) which excel in solving the vanishing gradient descent problem of Deep Learning which enable deeper layer stacking for the CNN Deep Learning architecture.
+
+As a general rule with support from many laboratory reports, Computer Vision performance of a Deep Learning architecture increases as the number of layers increases. Therefore with this 50 layers Residual Network the Computer Vision performance or prediction accuracy is high, and can products very good prediction results.
+
+There are many intricate differences between person faces and high degree of visual capability is needed for this project, hence it is chosen for this project.
+
+The only drawback of deeper architecture is increases in computational resources requirements, thus I decided to use 50 layers for the computer vision project, at some early evaluation ResNet50 can provides pretty fast prediction performance down to 80 milliseconds processing time per image over tight resources platform, such as, a CPU-based mobile phone using Google's Androiod system running Tensorflow Lite.
+
 
 # Google Tensorflow Model and Weights
 The file is in hdf5 format (.h5 file extension), and can be download from from Dropbox public folder [here](https://www.dropbox.com/s/x2ck81r3lokeq57/my_model-100epochs.h5?dl=0).
@@ -119,4 +126,8 @@ TBD
 If you are curious everything about Artificial Intelligence, I hope you will find my Quora answers and questions interesting since I am a super curious person and decided to find answers by asking. As of 2018 boxing day, 2018-12-26, my answers and questions was being read by 66,700 visitors, and I was chosen by Quora as a Quora Partner. Here is the [link](https://www.quora.com/profile/Moses-Wong-1) to my Quora page.
 
 AI is an extremely complex topic, so do the computer systems, softwares, algorithms and mathematics that runs it. I believes 'The best way to learn is to DO it', and my most favorite Quora content is [If humans can create artificial intelligence, then, are we a creation?](https://www.quora.com/If-humans-can-create-artificial-intelligence-then-are-we-a-creation)
+
+# Troubleshooting
+
+Troubleshooting guide.txt
 
