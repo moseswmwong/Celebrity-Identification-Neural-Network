@@ -39,7 +39,7 @@ Images are mostly acquired from AI research institutions which had already accum
 
 Due to copyright no images used by this AI can be released by any means.
 
-*** DISCLAIMER - all program materials provided in this github.com page does not contains any celebrity image, only processed weights represent generic features only understanable by relevant AI program can interpret this weights, and there is no way or methodologies whatsoever to reverse engineering for recover the original image in any format.
+*** DISCLAIMER - all program materials provided in this github.com page does not contains any celebrity image, only processed weights represent generic features only understanable by relevant AI program can interpret this weights, and there is no way or methodologies whatsoever to reverse engineering for recover the original image in any format. The author and user of this program take no responsibiilty of claim of copyright for these images.
 
 # Residual Network - The Algorithm Used
 
