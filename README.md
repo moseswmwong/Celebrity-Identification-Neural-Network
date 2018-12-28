@@ -116,13 +116,15 @@ After processing all files, you may collect image files being recognized as Cele
 Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify hyper-parameter turning process, the benefit is simplified AI architecture design and development process, but the drawbacks are
 1. Expensive services - pay for training on a per image per training basis, server and storage rental, and inference fee for AI, server and network usages
 2. Very difficult to customize
-3. Zero data ownership, shared AI weights result in lost of competitive edge in the same industry
-4. Zero program ownership, and potential risk lost of competitive edge in the same industry
-5. Limited client device integration
-6. Offline use impossible
-7. IoT local ML/DL processing impossible
-8. General security concerns of data privacy using cloud services
-9. More and more difficult to comply with the ever increasing privacy protection government regulations, result in increasing reputational and legal risk of business
+3. Zero data ownership
+4. Lost of competitive edge due to AI weights sharing
+5. Zero program ownership
+6. Lost of competitive edge due to program logic sharing
+7. Limited client device integration
+8. Offline use impossible
+9. IoT local ML/DL processing impossible
+10. General security concerns of data privacy using cloud services
+11. More and more difficult to comply with the ever increasing privacy protection government regulations, result in increasing reputational and legal risk of business
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
