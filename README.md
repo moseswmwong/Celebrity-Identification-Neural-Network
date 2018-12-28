@@ -105,20 +105,22 @@ The weights used in the local test is 300 epoch, however the weights published i
 
 ## Running the inference engine
 
-TBD
+The program is very easy to operate, just upload your image files to the subfolder 'localtest-celebrity' and run the Python Notebook, the processing time for one image is around 1 second on the nVidia GTX 1080 GPU.
+
+After processing all files, you may collect image files being recognized as Celebrity or Celebrity-like in the sub-folder 'result'.
 
 # Comparing other solutions
 
 ## Compare with automatic Machine Learning and visual recognition cloud services
 
 Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify hyper-parameter turning process, the benefit is simplified AI architecture design and development process, but the drawbacks are
-- Expensive services with per image charages, server and storage rental fee. Customer also has to pay for each inference use including AI, server and network traffic use.
-- Very difficult to customize
-- Zero data ownership
-- Zero program ownership
-- No client device integrate
-- IoT impossible
-- Offline impossible
+1. Expensive services with per image charages, server and storage rental fee. Customer also has to pay for each inference use including AI, server and network traffic use.
+2. Very difficult to customize
+3. Zero data ownership
+4. Zero program ownership
+5. No client device integrate
+6. IoT impossible
+7. Offline impossible
 
 # Future Enhancements
 - Face detection pre-processing to reduce error rate
