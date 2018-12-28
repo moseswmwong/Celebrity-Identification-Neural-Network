@@ -133,7 +133,7 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 - Port to mobile phone and embedded devices using Tensorflow Lite and Apple's Neural Engine
 - Port to nVidia Jetson TX2 Embedded Linux module for training and inference
 
-# Artificial Intelligence
+# Machine Intelligence 
 
 If you are curious everything about Artificial Intelligence, I hope you will find my Quora answers and questions interesting since I am a super curious person and decided to find answers by asking. As of 2018 boxing day, 2018-12-26, my answers and questions was being read by 66,700 visitors, and I was chosen by Quora as a Quora Partner. Here is the [link](https://www.quora.com/profile/Moses-Wong-1) to my Quora page.
 
