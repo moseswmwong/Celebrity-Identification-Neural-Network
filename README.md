@@ -130,7 +130,4 @@ If you are curious everything about Artificial Intelligence, I hope you will fin
 
 AI is an extremely complex topic, so do the computer systems, softwares, algorithms and mathematics that runs it. I believes 'The best way to learn is to DO it', and my most favorite Quora content is [If humans can create artificial intelligence, then, are we a creation?](https://www.quora.com/If-humans-can-create-artificial-intelligence-then-are-we-a-creation)
 
-# Troubleshooting
-
-Troubleshooting guide.txt
 
