@@ -109,11 +109,11 @@ TBD
 
 # Comparing other solutions
 
-## Comparing AutoML
+## Compare with automatic Machine Learning
 
-TBD
+Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify 
 
-## Comparing Amazon Rekonition cloud services
+## Compare with visual recognition services
 
 TBD
 
