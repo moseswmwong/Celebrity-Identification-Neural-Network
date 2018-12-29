@@ -131,7 +131,7 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
 - Port to Android based Smartphoe and Embedded Linux devices (e.g. Raspberry Pi) using Tensorflow Lite for inference
-- Port to Apple's iPhone using Apple's Neural Engine based programming environment for inference, or using Google's Tensorflow Lite on top of iPhone's Neural-processor/Microcontroller for inference
+- Port to Apple's iPhone using Apple's Neural Engine based tensor environment for inference, or using Google's Tensorflow Lite on top of iPhone's Neural-processor/Microcontroller for inference
 - Port to nVidia Jetson TX2 Embedded Linux module, for training and inference
 
 Please read my Quora article about AI latest development on Smartphone for more information, click [here](https://qr.ae/TUtf7A).
