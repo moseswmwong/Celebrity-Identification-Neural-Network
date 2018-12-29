@@ -130,7 +130,7 @@ Automatic Machine Learning, AutoML, is a new research direction which goal is to
 - Face detection pre-processing to reduce error rate
 - Include more background images as negative examples
 - De-bias to add more Celebrity images from countries all over the world
-- Port to Android based Smartphoe and Embedded Linux devices, e.g. Raspberry Pi, using Tensorflow Lite for inference
+- Port to Android based Smartphoe and Embedded Linux devices (e.g. Raspberry Pi) using Tensorflow Lite for inference
 - Port to Apple iPhone using Google's Tensorflow Lite or Apple's Neural Engine for inference
 - Port to nVidia Jetson TX2 Embedded Linux module, for training and inference
 
