@@ -113,7 +113,7 @@ After processing all files, you may collect image files being recognized as Cele
 
 ## Compare with automatic Machine Learning and visual recognition cloud services
 
-Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify hyper-parameter turning process, the benefit is simplified AI architecture design and development process, but the drawbacks are
+Automatic Machine Learning, AutoML, is a new research direction which goal is to simplify hyper-parameter tunning process, the benefit is simplified AI architecture design and development process, but the drawbacks are
 1. Expensive services - pay for training on a per image per training basis, server and storage rental, and inference fee for AI, server and network usages
 2. Very difficult to customize
 3. Lost control of data ownership
